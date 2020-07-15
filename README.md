@@ -1,8 +1,8 @@
-# {Application Name}
-#### {Brief description of application}, {Date of current version}
-#### By **{List of contributors}**
+# portfolio
+#### a practice portfolio hosted in git hub, 15 July 2020
+#### By **Charles N. Mailu**
 ## Description
-{This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
+This is a practice fortfolio creation, an assigment of week one in moringa school, the purpose is for practising how to create a E-portfolio
 ## Setup/Installation Requirements
 * This is a great place
 * to list setup instructions
@@ -16,8 +16,12 @@
 {Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}
 ## Support and contact details
 {Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}
+
+### Setup
+Clone this repo to your desktop and run
 ### License
-*MIT license to see lisence click the link below
-*https://github.com/charlesmaillu/Portfolio/blob/master/LICENSE
+You can check out the full license <a href="https://github.com/charlesmaillu/Portfolio/blob/master/LICENSE">here</a> 
+
+This project is licensed under the terms of the MIT license.
  **{Charles Mailu}**
 
