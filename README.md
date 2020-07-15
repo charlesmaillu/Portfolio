@@ -24,7 +24,7 @@ No known bugs yet but If you encounter a bug (the website couldn't handle the qu
 * HTML
 * CSS
 ## Support and contact details
-If you run into any issues or have questions, ideas or concerns reach me at charles972@live.com.
+If you run into any issues or have questions, ideas or concerns to reach me click <a href="https://charlesmaillu.github.io/contact-info">here</a>
 
 Want to contribute? Great!
 
