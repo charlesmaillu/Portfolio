@@ -4,18 +4,37 @@
 ## Description
 This is a practice fortfolio creation, an assigment of week one in moringa school, the purpose is for practising how to create a E-portfolio
 ## Setup/Installation Requirements
-* This is a great place
-* to list setup instructions
-* in a simple
-* easy-to-understand
-* format
-{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}
+
+* Text editor atom or visual studio
+* install git and an account at git hub
+* web browser chrome or firefox
+* *Fork the repo
+* Create a new branch (git checkout -b improve-feature)
+* Make the appropriate changes in the files
+* Add changes to reflect the changes made
+* Commit your changes (git commit -am 'Improve feature')
+* Push to the branch (git push origin improve-feature)
+* Create a Pull Request
+
 ## Known Bugs
-{Are there issues that have not yet been resolved that you want to let users know you know? Outline any issues that would impact use of your application. Share any workarounds that are in place. }
+No known bugs yet but If you encounter a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue <a href="https://charlesmaillu.github.io/contact-info">here</a> by including your search query and the expected result.
 ## Technologies Used
-{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}
+* HTML
+* CSS
 ## Support and contact details
-{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}
+If you run into any issues or have questions, ideas or concerns reach me at charles972@live.com.
+
+Want to contribute? Great!
+
+To fix a bug or enhance an existing module, follow these steps:
+
+* Fork the repo
+* Cr*eate a new branch (git checkout -b improve-feature)
+* Make the appropriate changes in the files
+* Add changes to reflect the changes made
+* Commit your changes (git commit -am 'Improve feature')
+* Push to the branch (git push origin improve-feature)
+* Create a Pull Request
 
 ### Setup
 Clone this repo to your desktop and run
@@ -23,5 +42,5 @@ Clone this repo to your desktop and run
 You can check out the full license <a href="https://github.com/charlesmaillu/Portfolio/blob/master/LICENSE">here</a> 
 
 This project is licensed under the terms of the MIT license.
- **{Charles Mailu}**
+ **Charles Mailu**
 
