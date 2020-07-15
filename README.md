@@ -1,14 +1,16 @@
-# portfolio
-#### a practice portfolio hosted in git hub, 15 July 2020
+# Portfolio
+#### A practice portfolio hosted in git hub, 15 July 2020
 #### By **Charles N. Mailu**
 ## Description
+
 This is a practice fortfolio creation, an assigment of week one in moringa school, the purpose is for practising how to create a E-portfolio
+
 ## Setup/Installation Requirements
 
 * Text editor atom or visual studio
 * install git and an account at git hub
 * web browser chrome or firefox
-* *Fork the repo
+* Fork the repo
 * Create a new branch (git checkout -b improve-feature)
 * Make the appropriate changes in the files
 * Add changes to reflect the changes made
