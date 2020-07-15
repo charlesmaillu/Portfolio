@@ -19,7 +19,7 @@ This is a practice fortfolio creation, an assigment of week one in moringa schoo
 * Create a Pull Request
 
 ## Known Bugs
-No known bugs yet but If you encounter a bug (the website couldn't handle the query and / or gave undesired results), kindly reach me at issue <a href="https://charlesmaillu.github.io/contact-info">here</a> by including your search query and the expected result.
+No known bugs yet but If you encounter a bug, kindly reach me at <a href="https://charlesmaillu.github.io/contact-info">here</a> 
 ## Technologies Used
 * HTML
 * CSS
