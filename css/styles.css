@@ -1,0 +1,9 @@
+.navWrapper{
+    display: flex;
+    justify-content: space-between;
+    padding: 38px;
+}
+
+.navlink{
+    display: flex;
+}
